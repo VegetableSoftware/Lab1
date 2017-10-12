@@ -1,5 +1,5 @@
 package lab1.functionPanel;
-
+//change on branch B2
 import Graph.Graph;
 import lab1.AppMainWindow;
 import lab1.MyIconButton;
