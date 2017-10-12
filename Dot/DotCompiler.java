@@ -1,7 +1,7 @@
 package Dot;
 import java.io.*;
 //useless chang in line 3
-//change on branch B1
+//now C4 has merged to B1
 public class DotCompiler {
 	private static final String DEFAULT_CACHE_PATH = "F:\\code\\java\\SoftwareEngineeringLab\\cache";
 	public static String saveFile(String textFilePath, String dotSource) {

@@ -3,7 +3,7 @@ import java.io.IOException;
 import java.nio.file.Paths;
 import java.util.*;
 //useless change in line 5
-//change on branch B1
+//now C4 has merged to B1
 public class Graph {
 	private static class Edge {
 		int v1;
